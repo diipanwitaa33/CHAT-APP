@@ -12,10 +12,8 @@ A simple two-user chat application that allows real-time messaging. Users can sw
 - 🗑 **Clear Chat**: Reset the conversation with a single click.  
 
 ## 🛠️ Technologies Used  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **WebSockets**: Socket.io (if real-time functionality is enabled)  
-
+- **Frontend**: HTML, CSS, JavaScript
+  
 ## 🎯 How to Use  
 1. Click on a user tab (**John** or **Jane**) to start chatting.  
 2. Type a message in the input field.  
